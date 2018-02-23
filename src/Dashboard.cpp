@@ -41,7 +41,7 @@
               "data.setValue(1, 1, value.probeB); "
               "},\"json\"); "
                 "chart.draw(data, options); "
-              "}, 1000); "
+              "}, 15000); "
         "} "
       "}); "
       "</script> "
